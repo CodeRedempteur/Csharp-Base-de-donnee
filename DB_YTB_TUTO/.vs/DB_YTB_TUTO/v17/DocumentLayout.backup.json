@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SnifL\\source\\repos\\DB_YTB_TUTO\\",
+  "WorkspaceRootPath": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\Csharp-Base-de-donnee\\DB_YTB_TUTO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34A579A7-15D2-4555-BD30-D50F74F531E8}|DB_YTB_TUTO\\DB_YTB_TUTO.csproj|c:\\users\\snifl\\source\\repos\\db_ytb_tuto\\db_ytb_tuto\\databaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34A579A7-15D2-4555-BD30-D50F74F531E8}|DB_YTB_TUTO\\DB_YTB_TUTO.csproj|c:\\users\\snifl\\documents\\projetinformatique\\github\\csharp-base-de-donnee\\db_ytb_tuto\\db_ytb_tuto\\databaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34A579A7-15D2-4555-BD30-D50F74F531E8}|DB_YTB_TUTO\\DB_YTB_TUTO.csproj|solutionrelative:db_ytb_tuto\\databaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34A579A7-15D2-4555-BD30-D50F74F531E8}|DB_YTB_TUTO\\DB_YTB_TUTO.csproj|c:\\users\\snifl\\source\\repos\\db_ytb_tuto\\db_ytb_tuto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34A579A7-15D2-4555-BD30-D50F74F531E8}|DB_YTB_TUTO\\DB_YTB_TUTO.csproj|C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\Csharp-Base-de-donnee\\DB_YTB_TUTO\\db_ytb_tuto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34A579A7-15D2-4555-BD30-D50F74F531E8}|DB_YTB_TUTO\\DB_YTB_TUTO.csproj|solutionrelative:db_ytb_tuto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34A579A7-15D2-4555-BD30-D50F74F531E8}|DB_YTB_TUTO\\DB_YTB_TUTO.csproj|c:\\users\\snifl\\source\\repos\\db_ytb_tuto\\db_ytb_tuto\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34A579A7-15D2-4555-BD30-D50F74F531E8}|DB_YTB_TUTO\\DB_YTB_TUTO.csproj|C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\Csharp-Base-de-donnee\\DB_YTB_TUTO\\db_ytb_tuto\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34A579A7-15D2-4555-BD30-D50F74F531E8}|DB_YTB_TUTO\\DB_YTB_TUTO.csproj|solutionrelative:db_ytb_tuto\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DatabaseRequest.cs",
-              "DocumentMoniker": "C:\\Users\\SnifL\\source\\repos\\DB_YTB_TUTO\\DB_YTB_TUTO\\DatabaseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\Csharp-Base-de-donnee\\DB_YTB_TUTO\\DB_YTB_TUTO\\DatabaseRequest.cs",
               "RelativeDocumentMoniker": "DB_YTB_TUTO\\DatabaseRequest.cs",
-              "ToolTip": "C:\\Users\\SnifL\\source\\repos\\DB_YTB_TUTO\\DB_YTB_TUTO\\DatabaseRequest.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\Csharp-Base-de-donnee\\DB_YTB_TUTO\\DB_YTB_TUTO\\DatabaseRequest.cs",
               "RelativeToolTip": "DB_YTB_TUTO\\DatabaseRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwGwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T16:33:03.635Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DatabaseConnection.cs",
-              "DocumentMoniker": "C:\\Users\\SnifL\\source\\repos\\DB_YTB_TUTO\\DB_YTB_TUTO\\DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\Csharp-Base-de-donnee\\DB_YTB_TUTO\\DB_YTB_TUTO\\DatabaseConnection.cs",
               "RelativeDocumentMoniker": "DB_YTB_TUTO\\DatabaseConnection.cs",
-              "ToolTip": "C:\\Users\\SnifL\\source\\repos\\DB_YTB_TUTO\\DB_YTB_TUTO\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\Csharp-Base-de-donnee\\DB_YTB_TUTO\\DB_YTB_TUTO\\DatabaseConnection.cs",
               "RelativeToolTip": "DB_YTB_TUTO\\DatabaseConnection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,11 +58,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SnifL\\source\\repos\\DB_YTB_TUTO\\DB_YTB_TUTO\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\Csharp-Base-de-donnee\\DB_YTB_TUTO\\DB_YTB_TUTO\\Program.cs",
               "RelativeDocumentMoniker": "DB_YTB_TUTO\\Program.cs",
-              "ToolTip": "C:\\Users\\SnifL\\source\\repos\\DB_YTB_TUTO\\DB_YTB_TUTO\\Program.cs",
-              "RelativeToolTip": "DB_YTB_TUTO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABcAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\Csharp-Base-de-donnee\\DB_YTB_TUTO\\DB_YTB_TUTO\\Program.cs*",
+              "RelativeToolTip": "DB_YTB_TUTO\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA8AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T16:26:25.494Z",
               "EditorCaption": ""

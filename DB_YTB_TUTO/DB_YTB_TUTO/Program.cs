@@ -14,12 +14,14 @@ namespace DB_YTB_TUTO
 
             DatabaseConnection connection = new DatabaseConnection("localhost", "db_ytb", "Wow", "");
             DatabaseRequest request = new DatabaseRequest(connection);
+
+
             List<string> result = request.GetData("SELECT * FROM t_product");
             foreach (string item in result)
             {
                 Console.WriteLine(item);
             }
-            Console.ReadKey();
+
         }
     }
 }
